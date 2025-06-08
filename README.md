@@ -1,10 +1,10 @@
 ### 👋 Hello, I'm Louis!
 
-I'm a full-stack software engineer experienced in JavaScript/Node.js, TypeScript, React, Ruby, Python, Golang, PostgreSQL, MongoDB, Redis, Docker, AWS, and other tools.
+I'm a Full Stack Software Engineer at Songtrust, working with Python/Django, React/TypeScript, GraphQL/REST and AWS to build and maintain features for a music royalty administration platform.
 
-I'm currently seeking my next role and am excited to continue contributing to innovative projects and tackling new challenges in the tech industry.
+While I'm very happy in my current role, I'm always open to hearing about new opportunities where I can leverage my full-stack development expertise.
 
-Most recently, I built [MIMIC](https://mimic-replay.com), an open-source session replay framework simplifying recording & replaying user sessions to enhance web application debugging. You can read our in-depth technical case study [here](https://mimic-replay.com/#case-study)!
+Previously, I developed [MIMIC](https://mimic-replay.com), an open-source session replay framework simplifying recording and replaying user sessions.
 
 ### 🤝 Let's Get in Touch
 - [Website](https://louis-mascari.com)
