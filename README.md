@@ -9,12 +9,12 @@ Uniquely, I transitioned to engineering after a career as a **Doctor of Physical
 * **The Result:** I build products that are healthy, maintainable, and empathetic to the user.
 
 ### 🛠 Tech Stack
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ### 🚀 Featured Project: Mango Wave
 I recently launched **[MangoWave](https://mangowave.app)**, an open-source, browser-based audio-reactive visualizer inspired by Winamp. 
-* **The Tech:** It utilizes a 100% client-side Web Audio API pipeline to ingest system audio and translates it into high-fidelity WebGL 2 graphics. I also heavily leveraged AI workflows via Claude Opus 4.6 to accelerate architectural planning and feature iteration.
+* **The Tech:** It utilizes a 100% client-side Web Audio API pipeline to ingest system audio and translates it into high-fidelity WebGL 2 graphics. I used AI-assisted workflows (Claude) to pressure-test architecture decisions and move faster on feature iteration.
 * **The Infrastructure:** I architected a serverless NoSQL infrastructure using AWS CDK, Lambda, and DynamoDB to support Spotify OAuth and cloud settings synchronization.
 
 ### 🔭 Open Source
@@ -30,7 +30,7 @@ I recently launched **[MangoWave](https://mangowave.app)**, an open-source, brow
 ### 🤝 Let's Connect
 I'm always down to nerd out about:
 * Frontend Architecture & UX
-* Video Games (OSRS, Arc Raiders, Helldivers 2, Killing Floor 2, Halo Infinite, Valorant, CS2)
+* Video Games
 * Lifting / Fitness
 * Music Tech
 * The transition from Healthcare to Tech
