@@ -19,8 +19,8 @@ information and pull in the right people at the right time.
 ### MangoWave · [mangowave.app](https://mangowave.app)
 A free, no-install browser audio visualizer with 832 MilkDrop presets, built on a fork of the butterchurn engine.
 - The engine couldn't parse newer shader presets, so I compiled an HLSL→GLSL ES 3.0 converter to WebAssembly and ran it on the fly in a Web Worker, off the main thread.
-- Patched the forked engine for production issues: frame-rate normalization for high-refresh displays, GPU memory and WebGL context-loss fixes, lighter mobile texture uploads.
-- Cross-device "rooms" sync peer-to-peer over WebRTC with no backend; a small serverless AWS stack (CDK, Lambda, DynamoDB) handles optional Spotify and cloud-sync.
+- Patched the forked engine for production issues: frame-rate normalization for high-refresh displays, GPU memory and WebGL context-loss fixes, faster mobile startup.
+- Cross-device "rooms" sync peer-to-peer over WebRTC, and separate windows or monitors on one machine stay in sync over BroadcastChannel, both with no backend; a small serverless AWS stack (CDK, Lambda, DynamoDB) handles optional Spotify and cloud-sync.
 
 ### MIMIC · [mimic-replay.com](https://mimic-replay.com) — co-created, team of four
 An error-focused session-replay framework: it records the user session (DOM via rrweb, plus custom fetch/XHR/WebSocket interceptors) and replays it as a live DOM reconstruction.
