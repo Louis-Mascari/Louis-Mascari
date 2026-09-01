@@ -18,7 +18,7 @@ information and pull in the right people at the right time.
 
 ### MangoWave · [mangowave.app](https://mangowave.app)
 A free, no-install browser audio visualizer built on a fork of the butterchurn engine.
-- The base engine couldn't parse newer shader presets, so I compiled an HLSL→GLSL ES 3.0 converter to WebAssembly and ran it on the fly in a Web Worker (off the main thread), more than doubling the visualizations it can run, to 832 MilkDrop presets.
+- The base engine couldn't parse newer shader presets, so I compiled an HLSL→GLSL ES 3.0 converter to WebAssembly and ran it on the fly in a Web Worker (off the main thread). I hand-checked each new preset on desktop and mobile before shipping it, more than doubling the engine's default MilkDrop library.
 - Patched the forked engine for production issues: frame-rate normalization for high-refresh displays, GPU memory and WebGL context-loss fixes, faster mobile startup.
 - Cross-device "rooms" sync peer-to-peer over WebRTC, and separate windows or monitors on one machine stay in sync over BroadcastChannel, both with no backend; a small serverless AWS stack (CDK, Lambda, DynamoDB) handles optional Spotify and cloud-sync.
 
