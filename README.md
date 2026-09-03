@@ -7,6 +7,8 @@ Python/Django and React/TypeScript stack.
 Lately I've moved into leading development on a new platform, working directly with our head
 of technology: a GraphQL federation layer (TypeScript, Node, Next.js, Apollo Federation) that
 unifies data across operating companies into one hub, with multi-tenancy and row-level security.
+Alongside it, I help build the agentic orchestration tooling we develop with, and support Product
+and Design in adopting agentic workflows of their own.
 
 Before software, I was a **Doctor of Physical Therapy**, traveling clinics on 3–6 month stints,
 managing complex caseloads and supervising assistants. It taught me to move without perfect
